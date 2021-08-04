@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/learnRedux/static/css/main.bfcdf4e6.chunk.css",
-    "main.js": "/learnRedux/static/js/main.532fd86e.chunk.js",
-    "main.js.map": "/learnRedux/static/js/main.532fd86e.chunk.js.map",
-    "runtime-main.js": "/learnRedux/static/js/runtime-main.7fbf38c6.js",
-    "runtime-main.js.map": "/learnRedux/static/js/runtime-main.7fbf38c6.js.map",
-    "static/js/2.88242184.chunk.js": "/learnRedux/static/js/2.88242184.chunk.js",
-    "static/js/2.88242184.chunk.js.map": "/learnRedux/static/js/2.88242184.chunk.js.map",
+    "main.js": "/learnRedux/static/js/main.dd969506.chunk.js",
+    "main.js.map": "/learnRedux/static/js/main.dd969506.chunk.js.map",
+    "runtime-main.js": "/learnRedux/static/js/runtime-main.dd830c4c.js",
+    "runtime-main.js.map": "/learnRedux/static/js/runtime-main.dd830c4c.js.map",
+    "static/js/2.46c1793a.chunk.js": "/learnRedux/static/js/2.46c1793a.chunk.js",
+    "static/js/2.46c1793a.chunk.js.map": "/learnRedux/static/js/2.46c1793a.chunk.js.map",
     "index.html": "/learnRedux/index.html",
     "static/css/main.bfcdf4e6.chunk.css.map": "/learnRedux/static/css/main.bfcdf4e6.chunk.css.map",
-    "static/js/2.88242184.chunk.js.LICENSE.txt": "/learnRedux/static/js/2.88242184.chunk.js.LICENSE.txt"
+    "static/js/2.46c1793a.chunk.js.LICENSE.txt": "/learnRedux/static/js/2.46c1793a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7fbf38c6.js",
-    "static/js/2.88242184.chunk.js",
+    "static/js/runtime-main.dd830c4c.js",
+    "static/js/2.46c1793a.chunk.js",
     "static/css/main.bfcdf4e6.chunk.css",
-    "static/js/main.532fd86e.chunk.js"
+    "static/js/main.dd969506.chunk.js"
   ]
 }
