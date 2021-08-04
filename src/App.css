@@ -1,0 +1,25 @@
+section {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+.group {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+  margin: 5px;
+}
+
+.warehouse {
+  width: 200px;
+  height: 100px;
+  border: 1px solid darkblue;
+}
+
+.truck {
+  width: 10px;
+  padding: 6px;
+  background-color: darkcyan;
+  border-radius: 2px;
+}
